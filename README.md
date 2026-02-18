@@ -1,3 +1,5 @@
+![Linkedin](https://github.com/user-attachments/assets/21a9e772-73b7-41eb-8405-0f2de68a0b88)
+
 <h1 align="center">Hello World, my name is Laura Fourniat</h1>
 <h3 align="center">A passionate FullStack developer from France.</h3>
 
